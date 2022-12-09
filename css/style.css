@@ -1,0 +1,156 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+main { 
+    width: 1900px;
+    margin: 0 auto; 
+}
+
+h1 {
+    font-size: 250px;
+    color: white;
+    font-family: 'Trebuchet MS';
+    margin:0px;
+}
+
+.header {
+    text-align: center;
+    padding: 400px;
+    background-image: url(../img/angel-jimenez,copy.jpg) ;
+    background-size: cover;
+}
+
+
+
+.img1 {
+    float: right;
+margin: 200px 150px 0px 0px;
+}
+
+.cont1 {
+    padding: 300px 0px 0px 230px;
+}
+
+h2 {
+    font-size: 70px;
+    background: linear-gradient(#dc084e, #dd4c7c,#dc7698) ;
+    -webkit-background-clip: text;
+    color: transparent;
+    margin: 0;
+}
+
+.louder {
+    margin: 0;
+    margin-top: 180px;
+}
+
+h3 {
+    font-size: 450%;
+    margin: 0;
+    color: rgb(72, 70, 70);
+}
+
+p {
+    line-height: 42px;
+    font-size:150%;
+}
+
+.boton1 {
+    border-radius: 80ch;
+    font-size: 100%;
+    padding: 18px 60px 18px 60px;
+    border: none;
+    background-color: #ff475f;
+    color: white;
+}
+
+.cont2 {
+    padding: 100px 100px 0px 0px;
+    float: right;
+    font-size: 50;
+    }
+
+.img2 {
+    float: left;
+    padding: 30px 0px 85px 190px;
+    margin: 272px 0px 80px 0px;
+}
+
+.boton2 {
+    border-radius: 80ch;
+    font-size: 100%;
+    padding: 20px 60px 18px 60px;
+    border: none;
+    background-color: #ff475f;
+    color: white;
+}
+
+.cont3 {
+    background-image: url(../img/john-raptis.png);
+    background-size:cover ; 
+    clear: both;
+    padding: 0px 0px 60px 0px;
+    height: 750px;
+}
+
+.cont3_1 {
+    text-align: left;
+    color: white;
+    padding: 100px;
+    float: right;
+}
+
+.sound {
+    font-size:400%;
+    color: white;
+}
+
+.boton3 {
+    border-radius: 80ch;
+    font-size: 100%;
+    padding: 20px 60px 18px 60px;
+    border: none;
+    background-color: #ff475f;
+    color: white;
+}
+
+.cont4 {
+    padding: 400%;
+    background-color: #ff475f;
+    background-repeat: no-repeat;
+}
+
+.cont4, th {
+    padding: 80px  250px 50px 0px;
+}
+
+.cont4, td {
+    padding: 10px 0px 1px 0px ;
+}
+
+.tabla1 {
+    float:center;
+    margin-left: 10%;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.tabla2 {
+    padding: 0px 0px 0px 0px ;
+    float: center;
+    margin-left: 10%;
+    border-top: 2px solid white;
+    color: white;
+    font-size: 20px;
+}
+.tabla2, td{
+    padding: 20px 0px 15px 0px ;
+}
+.correo{
+    padding: 0px 0px 0px 900px;
+}
+
